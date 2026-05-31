@@ -8,7 +8,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**Repositorio de código fuente**: [https://github.com/FraSe-JQ/webdev-course-power-tech](https://github.com/FraSe-JQ/webdev-course-power-tech)
+**Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech](https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech)
 
 ---
 
@@ -17,9 +17,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Descubre qué son los sitios web, cómo funcionan y por qué HTML y CSS son sus componentes básicos. Veremos ejemplos de páginas reales y entenderemos qué hace cada tecnología.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [https://youtu.be/j2D6cbEmutM](https://youtu.be/j2D6cbEmutM)
 - **Conceptos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). Todo lo que ves en internet está hecho con estos dos lenguajes.
-- **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/?template=your-starter) **¡Sin registro!**
 
 ---
 
@@ -79,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Recursos Adicionales
 
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/powertech-upc/webdev-course-powertech)
+- **Código Fuente Completo**: [https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech](https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Herramienta |
@@ -104,7 +103,7 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202610  
 1ASI0730 Aplicaciones Web  
-NRC [Número de NRC]
+NRC 12053
 
 **Nombre del equipo**: PowerTech  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
