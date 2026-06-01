@@ -52,9 +52,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 5: Estilo simple: centrar, colores y bordes (8 minutos)
 
 - **Descripción**: Aprende a centrar contenido, añadir colores de fondo, bordes y espaciado. Verás cómo pequeños cambios en CSS transforman completamente el aspecto de una página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [https://www.youtube.com/watch?v=fLfxaAd-0KI](https://www.youtube.com/watch?v=fLfxaAd-0KI)
 - **Conceptos clave**: Propiedades `margin`, `padding`, `border`, `text-align: center`, `background-color`. La clave es experimentar.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson5) **¡Experimenta sin miedo!**
+- **Práctica**: [Clic para programar](https://codepen.io/fabiovallejo/pen/GgNyaPd) **¡Experimenta sin miedo!**
 
 ---
 
@@ -86,8 +86,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilos básicos con CSS | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Centrar y decorar | [CodePen](https://codepen.io/your-lesson5) |
+| 4 | Estilos básicos con CSS | [CodePen](https://codepen.io/fabiovallejo/pen/RNoxmrp) |
+| 5 | Centrar y decorar | [CodePen](https://codepen.io/fabiovallejo/pen/GgNyaPd) |
 | 6 | Página de perfil personal | [Replit](https://replit.com/@powertech-lesson6) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
@@ -112,7 +112,7 @@ NRC 12053
 2. [Nombres y Apellidos — Integrante 2]
 3. [Nombres y Apellidos — Integrante 3]
 4. [Nombres y Apellidos — Integrante 4]
-5. [Nombres y Apellidos — Integrante 5]
+5. [Fabio Cesar Vallejo Trujillo — U20211D989]
 
 **Fecha de entrega**: 07-06-2026
 
