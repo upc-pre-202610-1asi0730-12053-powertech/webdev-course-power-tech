@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  color: green;
+}
+
+h1 {
+  color: #2c3e50;
+  font-size: 45px;
+}
+
+h2 {
+  color: #2980b9;
+  font-size: 22px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: black;
+}
+
+.social {
+  color: blue;
+}

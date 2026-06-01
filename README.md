@@ -43,9 +43,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 4: Introducción a CSS (12 minutos)
 
 - **Descripción**: Dale color y estilo a tu HTML. Aprende qué son los selectores, cómo vincular un archivo CSS y las propiedades más usadas como color, fuente y fondo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [https://www.youtube.com/watch?v=6hCj5-SSVzI](https://www.youtube.com/watch?v=6hCj5-SSVzI)
 - **Conceptos clave**: Vincular CSS con `<link>`, usar selectores como `body { background-color: lightblue; }`, cambiar fuentes con `font-family`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-lesson4) **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/fabiovallejo/pen/RNoxmrp) **¡No es necesario registrarse!**
 
 ---
 
