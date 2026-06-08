@@ -25,18 +25,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: Estructura HTML básica (10 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos de HTML. Crearás tu primera página web desde cero usando solo el navegador.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=5ud9qSQaB0g)
 - **Conceptos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. Cada etiqueta tiene apertura y cierre.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson2) **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Nickolas-Ramirez/pen/LEbqZMB) 
 
 ---
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces a tu página. Aprende a estructurar contenido de forma clara y ordenada.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=GOUaGJUymso)
 - **Conceptos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`. Las imágenes y los enlaces hacen tu página interactiva.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-lesson3) **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/editor/Nickolas-Ramirez/pen/019ea5af-3ee3-76e6-b93a-2ce944ce7b1c) **¡Comienza al instante!**
 
 ---
 
@@ -81,14 +81,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Código Fuente Completo**: [https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech](https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad | Herramienta |
-|:---------:|-----------|-------------|
-| 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| Lección # | Actividad | Herramienta                                            |
+|:---------:|-----------|--------------------------------------------------------|
+| 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1)             |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2)             |
+| 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/your-lesson3)             |
 | 4 | Estilos básicos con CSS | [CodePen](https://codepen.io/fabiovallejo/pen/RNoxmrp) |
 | 5 | Centrar y decorar | [CodePen](https://codepen.io/fabiovallejo/pen/GgNyaPd) |
-| 6 | Página de perfil personal | [Replit](https://replit.com/@powertech-lesson6) |
+| 6 | Página de perfil personal | [Replit](https://replit.com/@powertech-lesson6)        |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Comparte tu trabajo**: #WebDevBeginners #PowerTechUPC
