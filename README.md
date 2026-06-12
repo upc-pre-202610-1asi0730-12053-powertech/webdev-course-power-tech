@@ -110,7 +110,7 @@ NRC 12053
 **Integrantes del equipo**:
 1. [Julio Frank Quispe Serrano - U20241D922]
 2. [Nickolas Ramirez Ruiz — U202415551]
-3. [Nombres y Apellidos — Integrante 3]
+3. [Mathias Marcelo De la Cruz De los Santos — U202424059]
 4. [Nombres y Apellidos — Integrante 4]
 5. [Fabio Cesar Vallejo Trujillo — U20211D989]
 
