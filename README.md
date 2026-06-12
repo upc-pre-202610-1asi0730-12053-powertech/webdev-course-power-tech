@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 7: Consejos, errores comunes y próximos pasos (10 minutos)
 
 - **Descripción**: Repaso de los errores más frecuentes en HTML y CSS para principiantes, buenas prácticas de escritura de código y recursos gratuitos para seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link7)
+- **Enlace**: [Ver la lección](https://youtu.be/lWhhD_2jBoo)
 - **Conceptos clave**: Validar el código con el W3C Validator, explorar la documentación MDN Web Docs, cerrar siempre las etiquetas.
 - **Recursos**: [MDN Web Docs](https://developer.mozilla.org/es/) | [W3C Validator](https://validator.w3.org/)
 
