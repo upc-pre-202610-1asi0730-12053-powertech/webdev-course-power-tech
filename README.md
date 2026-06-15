@@ -61,9 +61,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 6: Crea tu página de perfil personal (15 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir una página web real: tu perfil personal con foto, descripción, lista de intereses y estilo propio. ¡El proyecto final del curso!
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [https://youtu.be/p3IYyhMPguo](https://youtu.be/p3IYyhMPguo)
 - **Conceptos clave**: Aplicar HTML + CSS juntos, depurar errores comunes, organizar el código de forma limpia.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@powertech-final-project) **¡Guarda y comparte tu resultado!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5bt) **¡Guarda y comparte tu resultado!**
 
 ---
 
@@ -88,7 +88,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilos básicos con CSS | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Centrar y decorar | [CodePen](https://codepen.io/your-lesson5) |
-| 6 | Página de perfil personal | [Replit](https://replit.com/@powertech-lesson6) |
+| 6 | Página de perfil personal | [CodePen](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5b) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Comparte tu trabajo**: #WebDevBeginners #PowerTechUPC
