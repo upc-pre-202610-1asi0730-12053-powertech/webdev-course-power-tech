@@ -106,13 +106,13 @@ Período 202610
 NRC 12053
 
 **Nombre del equipo**: PowerTech  
-**Líder del equipo**: [Nombres y Apellidos del líder]  
+**Líder del equipo**: Julio Frank Quispe Serrano  
 **Integrantes del equipo**:
-1. [Julio Frank Quispe Serrano - U20241D922]
-2. [Nickolas Ramirez Ruiz — U202415551]
-3. [Mathias Marcelo De la Cruz De los Santos — U202424059]
-4. [Jose Zacarias Ortega Quintana — U202316852]
-5. [Fabio Cesar Vallejo Trujillo — U20211D989]
+1. Julio Frank Quispe Serrano - U20241D922
+2. Nickolas Ramirez Ruiz — U202415551
+3. Mathias Marcelo De la Cruz De los Santos — U202424059
+4. Jose Zacarias Ortega Quintana — U202316852
+5. Fabio Cesar Vallejo Trujillo — U20211D989
 
 **Fecha de entrega**: 18-06-2026
 
