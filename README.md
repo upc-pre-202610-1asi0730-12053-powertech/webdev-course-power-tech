@@ -25,7 +25,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: Estructura HTML básica (10 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos de HTML. Crearás tu primera página web desde cero usando solo el navegador.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=5ud9qSQaB0g)
+- **Enlace**: [https://www.youtube.com/watch?v=5ud9qSQaB0g](https://www.youtube.com/watch?v=5ud9qSQaB0g)
 - **Conceptos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. Cada etiqueta tiene apertura y cierre.
 - **Práctica**: [Clic para programar](https://codepen.io/Nickolas-Ramirez/pen/LEbqZMB) 
 
@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces a tu página. Aprende a estructurar contenido de forma clara y ordenada.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=GOUaGJUymso)
+- **Enlace**: [https://www.youtube.com/watch?v=GOUaGJUymso](https://www.youtube.com/watch?v=GOUaGJUymso)
 - **Conceptos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`. Las imágenes y los enlaces hacen tu página interactiva.
 - **Práctica**: [Clic para programar](https://codepen.io/editor/Nickolas-Ramirez/pen/019ea5af-3ee3-76e6-b93a-2ce944ce7b1c) **¡Comienza al instante!**
 
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 7: Consejos, errores comunes y próximos pasos (10 minutos)
 
 - **Descripción**: Repaso de los errores más frecuentes en HTML y CSS para principiantes, buenas prácticas de escritura de código y recursos gratuitos para seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://youtu.be/lWhhD_2jBoo)
+- **Enlace**: [https://youtu.be/lWhhD_2jBoo](https://youtu.be/lWhhD_2jBoo)
 - **Conceptos clave**: Validar el código con el W3C Validator, explorar la documentación MDN Web Docs, cerrar siempre las etiquetas.
 - **Recursos**: [MDN Web Docs](https://developer.mozilla.org/es/) | [W3C Validator](https://validator.w3.org/)
 
@@ -90,7 +90,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 5 | Centrar y decorar | [CodePen](https://codepen.io/fabiovallejo/pen/GgNyaPd) |
 | 6 | Página de perfil personal | [CodePen](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5b) |
 
-- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario**: [https://docs.google.com/forms/d/e/1FAIpQLSfTWxxK1Hn1Mb9bWYqa2UfUUp5XvAbuse69qQlYVgFETxx08g/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfTWxxK1Hn1Mb9bWYqa2UfUUp5XvAbuse69qQlYVgFETxx08g/viewform?usp=publish-editor)
 - **Comparte tu trabajo**: #WebDevBeginners #PowerTechUPC
 
 **¡Gracias por completar el curso!**
@@ -114,5 +114,5 @@ NRC 12053
 4. [Jose Zacarias Ortega Quintana — U202316852]
 5. [Fabio Cesar Vallejo Trujillo — U20211D989]
 
-**Fecha de entrega**: 07-06-2026
+**Fecha de entrega**: 18-06-2026
 
