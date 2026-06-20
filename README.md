@@ -25,9 +25,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: Estructura HTML básica (10 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos de HTML. Crearás tu primera página web desde cero usando solo el navegador.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=5ud9qSQaB0g)
+- **Enlace**: [Ver la lección](https://youtu.be/cqA5WGBRmCU)
 - **Conceptos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. Cada etiqueta tiene apertura y cierre.
-- **Práctica**: [Clic para programar](https://codepen.io/Nickolas-Ramirez/pen/LEbqZMB) 
+- **Práctica**: [Clic para programar](https://codepen.io/Nickolas-Ramirez/pen/LEbqZMB) **¡No necesitas registrarte!**
 
 ---
 
@@ -61,16 +61,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 6: Crea tu página de perfil personal (15 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir una página web real: tu perfil personal con foto, descripción, lista de intereses y estilo propio. ¡El proyecto final del curso!
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [https://youtu.be/p3IYyhMPguo](https://youtu.be/p3IYyhMPguo)
 - **Conceptos clave**: Aplicar HTML + CSS juntos, depurar errores comunes, organizar el código de forma limpia.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@powertech-final-project) **¡Guarda y comparte tu resultado!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5bt) **¡Guarda y comparte tu resultado!**
 
 ---
 
 ### Lección 7: Consejos, errores comunes y próximos pasos (10 minutos)
 
 - **Descripción**: Repaso de los errores más frecuentes en HTML y CSS para principiantes, buenas prácticas de escritura de código y recursos gratuitos para seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link7)
+- **Enlace**: [https://youtu.be/lWhhD_2jBoo](https://youtu.be/lWhhD_2jBoo)
 - **Conceptos clave**: Validar el código con el W3C Validator, explorar la documentación MDN Web Docs, cerrar siempre las etiquetas.
 - **Recursos**: [MDN Web Docs](https://developer.mozilla.org/es/) | [W3C Validator](https://validator.w3.org/)
 
@@ -81,16 +81,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Código Fuente Completo**: [https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech](https://github.com/upc-pre-202610-1asi0730-12053-powertech/webdev-course-power-tech)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad | Herramienta                                            |
-|:---------:|-----------|--------------------------------------------------------|
-| 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1)             |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2)             |
-| 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/your-lesson3)             |
+| Lección # | Actividad | Herramienta |
+|:---------:|-----------|-------------|
+| 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 3 | Añadir imágenes y listas | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilos básicos con CSS | [CodePen](https://codepen.io/fabiovallejo/pen/RNoxmrp) |
 | 5 | Centrar y decorar | [CodePen](https://codepen.io/fabiovallejo/pen/GgNyaPd) |
-| 6 | Página de perfil personal | [Replit](https://replit.com/@powertech-lesson6)        |
+| 6 | Página de perfil personal | [CodePen](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5b) |
 
-- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario**: [https://docs.google.com/forms/d/e/1FAIpQLSfTWxxK1Hn1Mb9bWYqa2UfUUp5XvAbuse69qQlYVgFETxx08g/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfTWxxK1Hn1Mb9bWYqa2UfUUp5XvAbuse69qQlYVgFETxx08g/viewform?usp=publish-editor)
 - **Comparte tu trabajo**: #WebDevBeginners #PowerTechUPC
 
 **¡Gracias por completar el curso!**
@@ -110,9 +110,9 @@ NRC 12053
 **Integrantes del equipo**:
 1. [Julio Frank Quispe Serrano - U20241D922]
 2. [Nickolas Ramirez Ruiz — U202415551]
-3. [Nombres y Apellidos — Integrante 3]
-4. [Nombres y Apellidos — Integrante 4]
+3. [Mathias Marcelo De la Cruz De los Santos — U202424059]
+4. [Jose Zacarias Ortega Quintana — U202316852]
 5. [Fabio Cesar Vallejo Trujillo — U20211D989]
 
-**Fecha de entrega**: 07-06-2026
+**Fecha de entrega**: 18-06-2026
 
