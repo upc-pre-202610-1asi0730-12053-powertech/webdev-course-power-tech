@@ -25,9 +25,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: Estructura HTML básica (10 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos de HTML. Crearás tu primera página web desde cero usando solo el navegador.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/cqA5WGBRmCU)
 - **Conceptos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. Cada etiqueta tiene apertura y cierre.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson2) **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Nickolas-Ramirez/pen/LEbqZMB) **¡No necesitas registrarte!**
 
 ---
 
