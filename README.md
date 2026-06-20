@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces a tu página. Aprende a estructurar contenido de forma clara y ordenada.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=GOUaGJUymso)
+- **Enlace**: [Ver la lección](https://youtu.be/uSOOOp948F0)
 - **Conceptos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<img>`, `<a>`. Las imágenes y los enlaces hacen tu página interactiva.
 - **Práctica**: [Clic para programar](https://codepen.io/editor/Nickolas-Ramirez/pen/019ea5af-3ee3-76e6-b93a-2ce944ce7b1c) **¡Comienza al instante!**
 
