@@ -52,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 5: Estilo simple: centrar, colores y bordes (8 minutos)
 
 - **Descripción**: Aprende a centrar contenido, añadir colores de fondo, bordes y espaciado. Verás cómo pequeños cambios en CSS transforman completamente el aspecto de una página.
-- **Enlace**: [https://www.youtube.com/watch?v=fLfxaAd-0KI](https://www.youtube.com/watch?v=fLfxaAd-0KI)
+- **Enlace**: [https://youtu.be/BD45GfkujAI](https://youtu.be/BD45GfkujAI)
 - **Conceptos clave**: Propiedades `margin`, `padding`, `border`, `text-align: center`, `background-color`. La clave es experimentar.
 - **Práctica**: [Clic para programar](https://codepen.io/fabiovallejo/pen/GgNyaPd) **¡Experimenta sin miedo!**
 
