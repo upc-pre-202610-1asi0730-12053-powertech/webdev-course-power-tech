@@ -61,7 +61,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 6: Crea tu página de perfil personal (15 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir una página web real: tu perfil personal con foto, descripción, lista de intereses y estilo propio. ¡El proyecto final del curso!
-- **Enlace**: [https://youtu.be/p3IYyhMPguo](https://youtu.be/p3IYyhMPguo)
+- **Enlace**: [https://youtu.be/d_ccTVvfLGM](https://youtu.be/d_ccTVvfLGM)
 - **Conceptos clave**: Aplicar HTML + CSS juntos, depurar errores comunes, organizar el código de forma limpia.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/editor/jose-zacarias-ortega/pen/019ec8cd-8811-73dd-9c52-64d832c28f5bt) **¡Guarda y comparte tu resultado!**
 
